@@ -1,7 +1,3 @@
-from functools import reduce
-from operator import mul 
-
-
 
 def solve(l):
     """Returns the maximum product from 3 
